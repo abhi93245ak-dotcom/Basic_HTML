@@ -1,0 +1,20 @@
+.cat-picture{
+    width:200px;
+    border-radius: 15px;
+}
+.cat-picture1{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    object-fit: contain;
+    object-position: center;
+
+}
+.cat-picture2{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+    object-position: center;
+
+}
